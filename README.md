@@ -4,65 +4,121 @@ Rules for Table Tennis with a twist.
 
 ----
 
-## 1. Phases of a Point
+## 0. Definitions
+
+### 0.1 Normal rules, a normal point
+
+With some noted exceptions, the term "normal" refers to the ITTF official table tennis rules.
+
+### 0.2 The Point
+
+The Point is a time period that begins when the ball leaves the hand of the serving player. The Point ends when play stops, as defined through the rest of this document.
+
+### 0.3 Point counter
+
+During The Point, each team has a point counter that tracks points they have earned during The Point. At the end of The Point, the team that scored most recently applies the points from their point counter to their total score. Both point counters are then reset to 0.
+
+### 0.4 Scoring a point
+
+This simply means incrementing the point counter for a given team. Note that this does not affect a team's total score, as the total score is only updated after The Point has ended.
+
+## 1. Phases of The Point
+
+Each Point in combat table tennis is broken into multiple phases. Transitions between phases happen when criteria is met, and these phases may loop an unlimited number of times.
 
 ### 1.1 The Normal Table Tennis Phase
 
-Each point begins with normal table tennis rules. When playing with four players, a valid serve is one that travels diagonally across the court. If a player fails to return the ball, their opponent tentatively scores a point, pending the results of the Combat and Rest phases (1.2 and 1.3).
+#### 1.1.1 Beginning the Normal Phase
 
-#### 1.1.1 Net During a Serve
+The normal phase begins when the ball has left the hand of the serving player.
+
+#### 1.1.2 Scoring During the Normal Phase
+
+A point is scored, following normal table tennis rules, when the normal phase ends.
+
+#### 1.1.3 End of the Normal Phase
+
+The normal phase ends any time a point would have finished following normal table tennis rules. This includes the ball hitting the ground, the ceiling, or a player, as well as bouncing on the wrong side of the table. At least one point must be scored during the normal phase.
+
+#### 1.1.4 Special Rules During the Normal Phase
+
+##### 1.1.4.1 The Net During a Serve
 
 Unlike standard table tennis rules, the ball may touch the net on a serve. Play may continue normally after this happens.
 
-#### 1.1.2 "Still In Game"
+##### 1.1.4.2 Hitting the Back Wall During a Serve
+
+...
+
+##### 1.1.4.3 "Still in Game"
 
 During normal play, if the ball strikes the back wall and returns to the table, hitting the side controlled by the team that last hit the ball, the team that was supposed to receive the ball may call "still in game," in which case the wall acts like a teammate and the ball is still in play.
 
-#### 1.1.3 Sportsmanship
-
-This is not a thing. When a player has the ball and it is their turn to serve, they should feel no obligation to wait for their opponent to be ready. There are no "time-outs" for rules clarifications. 
-
 ### 1.2 The Combat Phase
 
-#### 1.2.1 Entering Combat
+#### 1.2.1 Beginning the Combat Phase
 
-As soon as the ball has left the hand of the serving player, combat may begin.
-
-The combat phase starts at any point when either the ball has made contact with a person (excluding hands) or the ball is in a position where the point would normally be dead (e.g. multiple bounces on the table, hitting the ceiling, passing beyond the table without touching it). Combat ends when the ball touches the ground, with the exception of "Reset" (1.3).
+The combat phase begins as soon as the normal phase ends.
 
 #### 1.2.2 Scoring During Combat
 
-During combat, a team scores a point when the ball makes contact with an opposing player. If the team scoring a combat point also scored a regular point, the points accumulate. For example, Team A makes a valid serve, and after bouncing on the opponents' side of the table, the ball makes contact with one of the players on Team B. In this case, Team A scores a point for the unreturned serve, as well as a combat point for striking an opposing player.
+During combat, a team scores a point when the ball makes contact with an opposing player.
 
-It is not possibile, however, for both teams to score during a single point. In the scenario above, if Team B had hit the ball back and made contact with a member of Team A before the ball touched the ground, both of Team A's points would have been canceled, and Team B would have won a single point.
+Once combat has started, normal points (unreturned shots that hit the opponents' side of the table, following normal table tennis rules) are no longer scored.
 
-Once combat has started, normal points (unreturned shots that hit the opponents' side of the table, following normal table tennis rules) can no longer be scored, with the exception of "Reset" (1.3).
+#### 1.2.3 End of the Combat Phase
 
-#### 1.2.3 Hands During Combat
+Combat ends when the ball touches the ground. If the normal phase ended with the ball touching the ground, the combat phase has simultaneously ended.
 
-Once the point has entered combat, contact between the ball and a player's hands is equivalent to cantact with a wall. No points are scored for contact with hands, and the ball is still live until it touches the ground.
+#### 1.2.4 Special Rules During Combat
 
-If a player catches the ball, they may not move their feet until the ball has been released. The ball may be thrown at an opponent. The player who caught the ball may not throw it and immediately strike it with their own paddle.
+##### 1.2.4.1 Hands During Combat
 
-#### 1.2.4 Offsides
+Once The Point has entered combat, contact between the ball and a player's hands is equivalent to cantact with a wall. No points are scored for contact with hands, and the ball is still live until it touches the ground. Walls can't catch, and the result of catching a ball during play is a Foul.
 
-During combat, a player's feet must stay on their side of the plane created by the net. Players may lean over the net to block a shot, or slide their paddle under the net, but feet cannot cross. There is no known penalty for breaking this rule.
+##### 1.2.4.2 Bonus Combat Points
 
-### 1.3 Reset!
+If the ball makes contact with a player's forehead or front of the Speedo region, an additional point is awarded.
 
-At any point, if the ball touches the ground, one player may strike the ball a single time with their paddle and return it to the opponents' side of the table. This resets the point to the normal phase (which can lead to an additional combat phase, and so on).
+### 1.3 Revive!
 
-As with the combat phase, points are cumulative, but can only be scored by one team. If Team A has earned 2 points, and they "reset" the game in this manner, their two points persist, and they earn the opportunity to add to their total. However, if Team B scores the final point after the reset, Team A's points are lost, and Team B wins the point.
+#### 1.3.1 Beginning the Revive Phase
+
+The revive phase begins as soon as the ball touches the ground.
+
+#### 1.3.2 Scoring During the Revive Phase
+
+No points can be scored during the revive phase.
+
+#### 1.3.3 Ending the Revive Phase
+
+During the revive phase, if one player strikes the ball a single time with their paddle and returns it to the opponents' side of the table, the ball has been successfully revived. This begins a new normal phase (which can lead to an additional combat phase, and so on). Points continue to accumulate.
+
+All other results of the revive phase (such as the ball bouncing on the floor twice, the player touching the ball twice, the ball bouncing on the wrong side of the table, etc) result in the end of The Point.
 
 ## 2. Special Points
 
-### 2.1 Nuts!
+### 2.1 Bucket!
 
-### 2.2 Back Wall Serve
+### 2.2 The Unicorn Shot
 
-### 2.3 Bucket!
+## 3. Fouls
 
-### 2.4 The Unicorn Shot
+All fouls, unless otherwise noted, result in the following:
 
-## 3. Winning the Game
+- The opponent of the team committing the foul increments their score counter by one
+- The Point ends
+
+### 3.1 Offsides
+
+During combat, a player must stay on their side of the plane created by the net. Players may not lean over the net to block a shot, or slide their paddle under the net.
+
+## 4. Winning the Game
+
+-------
+
+#### Sportsmanship
+
+This is not a thing. When a player has the ball and it is their turn to serve, they should feel no obligation to wait for their opponent to be ready. There are no "time-outs" for rules clarifications. 
+
 
